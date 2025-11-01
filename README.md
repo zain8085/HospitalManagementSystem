@@ -53,26 +53,24 @@ This desktop application helps manage hospital data such as **patients, doctors,
 
 ---
 
-#Set up a MySQL database:
-Create a database, e.g., hospital_db
-Create SQL necessary tables: patients, doctors, appointments
-Update database credentials in the project code (username, password, database URL)
-Open the project in IntelliJ IDEA and run the application.
+## Set up a MySQL database:
+- Create a database, e.g., hospital_db
+- Create SQL necessary tables: patients, doctors, appointments
+- Update database credentials in the project code (username, password, database URL)
+- Open the project in IntelliJ IDEA and run the application.
 
-Usage:
-Launch the application from IntelliJ
-Manage patients, doctors, and appointments using the interface
-All changes are saved in the connected MySQL database
+## Usage:
+- Launch the application from IntelliJ
+- Manage patients, doctors, and appointments using the interface
+- All changes are saved in the connected MySQL database
 
-Contributing:
-Contributions are welcome! You can:
-Report issues
-Suggest new features
-Submit pull requests
+## Contributing:
+- Contributions are welcome! You can:
+- Report issues
+- Suggest new features
+- Submit pull requests
 
 Please follow the standard Git workflow when contributing.
 
-License
-
-This project is licensed under the MIT License – see the LICENSE
- file for details.
+## License
+This project is licensed under the MIT License – see the LICENSE file for details.

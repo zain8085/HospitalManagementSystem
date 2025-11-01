@@ -4,9 +4,9 @@ import java.sql.*;
 import java.util.Scanner;
 
 public class HospitalSystem {
-    private static final String url = "jdbc:mysql://127.0.0.1:3306/hospitalsystem";
-    private static final String username = <username>;
-    private static final String pass = <password>;
+    private static final String url = <Enter JDBC URL>;
+    private static final String username = <enter username>;
+    private static final String pass = <enter password>;
 
     public static void main(String[] args) {
         try {

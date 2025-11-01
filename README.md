@@ -1,7 +1,4 @@
 # Hospital Management System
-A simple Hospital Management System built using Java, JDBC, and MySQL. This project allows users to manage hospital data such as patients, doctors, and appointments efficiently through a database-connected desktop application.
-
-# Hospital Management System
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
@@ -56,12 +53,7 @@ This desktop application helps manage hospital data such as **patients, doctors,
 
 ---
 
-## Installation
-1. **Clone the repository:**
-```bash
-https://github.com/zain8085/HospitalManagementSystem.git
-
-Set up a MySQL database:
+#Set up a MySQL database:
 Create a database, e.g., hospital_db
 Create SQL necessary tables: patients, doctors, appointments
 Update database credentials in the project code (username, password, database URL)

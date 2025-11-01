@@ -16,7 +16,6 @@ This desktop application helps manage hospital data such as **patients, doctors,
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -58,11 +57,15 @@ This desktop application helps manage hospital data such as **patients, doctors,
 - Create SQL necessary tables: patients, doctors, appointments
 - Update database credentials in the project code (username, password, database URL)
 - Open the project in IntelliJ IDEA and run the application.
+  
+---
 
 ## Usage:
 - Launch the application from IntelliJ
 - Manage patients, doctors, and appointments using the interface
 - All changes are saved in the connected MySQL database
+
+---
 
 ## Contributing:
 - Contributions are welcome! You can:
@@ -71,6 +74,8 @@ This desktop application helps manage hospital data such as **patients, doctors,
 - Submit pull requests
 
 Please follow the standard Git workflow when contributing.
+
+---
 
 ## License
 This project is licensed under the MIT License – see the LICENSE file for details.
